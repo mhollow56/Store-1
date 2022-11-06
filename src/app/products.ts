@@ -15,7 +15,7 @@ export const products = [
   {
     id: 2,
     name: 'Gaming Desktop ',
-    price: 699,
+    price: 2000,
     description: 'A gaming computer with all the bells and whistles',
   },
   {
@@ -24,4 +24,11 @@ export const products = [
     price: 299,
     description: '',
   },
+  {
+    id: 4,
+    name: 'Mini Tablet',
+    price: 199,
+    description: 'Fast speeds good value',
+
+  }
 ];

@@ -3,7 +3,7 @@
 
 * {
   font-family: 'Roboto', Arial, sans-serif;
-  color: #616161;
+  color: #8a8787;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -31,8 +31,8 @@ h1 {
 }
 
 h2 {
-  font-size: 25
-  px;
+  font-size: 25px;
+  color: #0a0909;
 }
 
 h1, h2 {
