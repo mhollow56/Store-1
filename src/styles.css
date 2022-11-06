@@ -11,6 +11,8 @@
 
 body {
   margin: 0;
+
+  background-color: #f1e9eade;
 }
 
 .container {
@@ -29,7 +31,8 @@ h1 {
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 25
+  px;
 }
 
 h1, h2 {
@@ -59,7 +62,7 @@ input {
   border-radius: 2px;
   padding: 8px;
   margin-bottom: 16px;
-  border: 1px solid #BDBDBD;
+  border: 1px solid #cdc8c8;
 }
 
 label {
