@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "dist/store-1",
+    "site": "online-store-2c82d",
     "ignore": [
       "firebase.json",
       "**/.*",
